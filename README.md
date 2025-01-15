@@ -1,4 +1,4 @@
 # ajrepo
 hi all!
 <br>
-today is saturday.
+today is wednesday.
